@@ -1,0 +1,5 @@
+Encapsulation is a hiding a variables or properties of a class by making them private,
+Hiding the data or properties from other class, not giving direct access
+giving them access through getters and setters.
+
+why- Security,controlled access for data or properties
